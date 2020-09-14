@@ -6,4 +6,4 @@ select CASE
       WHEN extract('hour' from q_time_new) between 19 and 23 THEN 'evening'
 end time_groups , count(distinct question_id)
 from sof_2
-group by 1
+group by 1;
