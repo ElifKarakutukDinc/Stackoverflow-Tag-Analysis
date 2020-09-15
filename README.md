@@ -17,7 +17,7 @@ You can check my Tableau Public page for looking dashbord about tag analysis: ht
 6-Polygon chart shows the top 10 tags by accepted answer. Tag with the most approved answers is about ‘Subjective’. 
 
 ## Time Analysis: 
-
+You can check my Tableau Public page for looking dashbord about time analysis:
 https://public.tableau.com/views/StackoverflowTimeAnalysis/StacoverflowTimeanalysis?:language=en&:display_count=y&publish=yes&:origin=viz_share_link 
 
 1-The question’s counts by time groups in day.  
