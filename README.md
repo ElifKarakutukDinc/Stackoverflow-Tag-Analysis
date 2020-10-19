@@ -2,7 +2,7 @@
 Stack Overflow Database is an open source database. You can download it from Bigquery. There is 4 months’ data on my hand. 
 
 ## Tags Analysis: 
-You can check my Tableau Public page for looking dashbord about tag analysis: https://public.tableau.com/views/StackoverflowTagAnalysis/StackoverflowTagsAnalysis?:language=en&:display_count=y&:origin=viz_share_link 
+You can check my Tableau Public page for looking dashboard  about tag analysis: https://public.tableau.com/views/StackoverflowTagAnalysis/StackoverflowTagsAnalysis?:language=en&:display_count=y&:origin=viz_share_link 
 
 1-First line chart shows answer and question counts of tags. Most of the question and answer counts belong to ‘C#’ programming language. 
 
@@ -18,7 +18,7 @@ You can check my Tableau Public page for looking dashbord about tag analysis: ht
 
 
 ## Time Analysis: 
-You can check my Tableau Public page for looking dashbord about time analysis:
+You can check my Tableau Public page for looking dashboard  about time analysis:
 https://public.tableau.com/views/StackoverflowTimeAnalysis/StacoverflowTimeanalysis?:language=en&:display_count=y&publish=yes&:origin=viz_share_link 
 
 1-The question’s counts by time groups in day.  
